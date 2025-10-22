@@ -1,5 +1,5 @@
 # Ex-06---DEVELOPING-A-DEEP-LEARNING-MODEL-FOR-NER-USING-LSTM
-Ex 06 - DEVELOPING A DEEP LEARNING MODEL FOR NER USING LSTM
+
 
 ## AIM
 To develop an LSTM-based model for recognizing the named entities in the text.
